@@ -1,39 +1,122 @@
 {
-    "users": [
+    "collegeData": 
 
-      {"id":1,
-        "username":"coreyschafer",
-      "Email":"core@gmail.com",
-      "Password":"1234"
-      },
-      {
-        "id": 2,
-        "username":"chafer",
-      "Email":"chafer@gmail.com",
-      "Password":"1234"
-      }
-    ],
-    "companies": [
-      {
-        "id" : 1,
-        "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
-        "company_name": "HDFC Bank",
-        "company_type": "Bank",
-        "stock_exchange": "NSE",
-        "total_shares": 50000,
-        "cost_per_share": 4210,
-        "price_action": 12
-      },
-      {
-        "id" : 2,
-        "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
-        "company_name": "Reliance Industries",
-        "company_type": "Oil",
-        "stock_exchange": "BSE",
-        "total_shares": 20000,
-        "cost_per_share": 2132,
-        "price_action": 4
-      }
-    ]
+        [
+            {
+                "id": 1,
+                "collegeName": "Amity University",
+                "city": "Noida",
+                "state": "Uttar Pradesh",
+                "country": "India",
+                "headerImgUrl": "",
+                "collegeLogoUrl": "",
+                "courses": [
+                {
+                    "name": "Master of Business Administration (MBA)",
+                    "fees": 161000,
+                    "duration": 2
+                },
+                {
+                    "name": "Master of Computer Applications (MCA)",
+                    "fees": 160000,
+                    "duration": 2
+                },
+                {
+                    "name": "Master of Commerce (MCom)",
+                    "fees": 110000,
+                    "duration": 2
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "fees": 150000,
+                    "duration": 3
+                },
+                {
+                    "name": "Bachelor of Computer Applications (BCA)",
+                    "fees": 135000,
+                    "duration": 3
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "fees": 85000,
+                    "duration": 3
+                },
+                {
+                    "name": "Bachelor of Commerce (BCom)",
+                    "fees": 85000,
+                    "duration": 3
+                }
+                ],
+                "rating": "",
+                "reviews": "",
+                "website": "https://www.amity.edu/",
+                "shortDescription":"The Amity Education Group is a not-for-profit organisation that was started in 1986 by the Chauhan Family. Today, the University has a presence in more than 11 countries with over 1,75,000 students.",
+                "longDescription":"The Amity Education Group is a not-for-profit organisation that was started in 1986 by the Chauhan Family. Today, the University has a presence in more than 11 countries with over 1,75,000 students. In order to cater to the educational needs of a larger segment of individuals, Amity took an initiative to offer education through the online mode. Thus, Amity University became the first university in India to gain approval from the UGC to offer online degrees in 2009. In order to ensure that students make the most out of their online learning experience, the university has set-up a one-of-its-kind platform, AMIGO, that takes care of all the study related needs of students. With its innovative thinking and futuristic approach, Amity University is closing the gaps in education by making quality higher education accessible to all",
+                "accreditation":["NAAC","WASC", "IET", "IACBE", "RICS", "UNWTO","QAA"]
+            },
+            {
+                "id": 2,
+                "collegeName": "Jain University",
+                "city": "Bengaluru",
+                "state": "Karnataka",
+                "country": "India",
+                "headerImgUrl": "",
+                "collegeLogoUrl": "",
+                "courses": [
+                {
+                    "name": "Master of Business Administration (MBA)",
+                    "fees": 150000 ,
+                    "duration": 2
+                },
+                {
+                    "name": "Master of Computer Applications (MCA)",
+                    "fees": 130000,
+                    "duration": 2
+                },
+                {
+                    "name": "Master of Commerce (MCom)",
+                    "fees": 100000,
+                    "duration": 2
+                },
+                {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "fees": 165000,
+                    "duration": 3
+                },
+                {
+                    "name": "Bachelor of Computer Applications (BCA)",
+                    "fees": 135000,
+                    "duration": 3
+                },
+                {
+                    "name": "Bachelor of Arts (BA)",
+                    "fees": "N/A",
+                    "duration": 3
+                },
+                {
+                    "name": "Bachelor of Commerce (BCom)",
+                    "fees": 120000,
+                    "duration": 3
+                },
+                {
+                    "name": "Master of Arts (MA)",
+                    "fees": 90000,
+                    "duration": 3
+                }
+                ],
+                "rating": "",
+                "reviews": "",
+                "website": "https://www.amity.edu/",
+                "shortDescription":"The Amity Education Group is a not-for-profit organisation that was started in 1986 by the Chauhan Family. Today, the University has a presence in more than 11 countries with over 1,75,000 students.",
+                "longDescription":"The Amity Education Group is a not-for-profit organisation that was started in 1986 by the Chauhan Family. Today, the University has a presence in more than 11 countries with over 1,75,000 students. In order to cater to the educational needs of a larger segment of individuals, Amity took an initiative to offer education through the online mode. Thus, Amity University became the first university in India to gain approval from the UGC to offer online degrees in 2009. In order to ensure that students make the most out of their online learning experience, the university has set-up a one-of-its-kind platform, AMIGO, that takes care of all the study related needs of students. With its innovative thinking and futuristic approach, Amity University is closing the gaps in education by making quality higher education accessible to all",
+                "accreditation":["NAAC","WASC", "IET", "IACBE", "RICS", "UNWTO","QAA"]
+            }
+        ]
+
+
+
+    
+   
+    
     
   }
