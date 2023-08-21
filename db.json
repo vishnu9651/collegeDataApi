@@ -1,265 +1,265 @@
 {
     "collegeData": 
 
-        [
-            {
-                "id": 1,
-                "collegeName": "Amity University",
-                "city": "Noida",
-                "state": "Uttar Pradesh",
-                "country": "India",
-                "headerImgUrl": "",
-                "collegeLogoUrl": "",
-                "courses": [
-                    {
-                        "category": "MBA",
-                        "variant": {
-                            "name": "Master of Business Administration (MBA)",
-                            "fee": 161000,
-                            "duration": 2
-                        }   
-                    },
-                    {
-                        "category": "MCA",
-                        "variant": {
-                            "name": "Master of Computer Applications (MCA)",
-                            "fee": 160000,
-                            "duration": 2
-                        }
-                    },
-                    {
-                        "category": "MCom",
-                        "variant": {
-                            "name": "Master of Commerce (MCom)",
-                            "fee": 110000,
-                            "duration": 2
-                        }
-                    },
-                    {
-                        "category": "BBA",
-                        "variant": {
-                            "name": "Bachelor of Business Administration (BBA)",
+    [
+        {
+            "id": 1,
+            "collegeName": "Amity University",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "MBA",
+                    "variant": [{
+                        "name": "Master of Business Administration",
+                        "fee": 161000,
+                        "duration": 2
+                    }]
+                },
+                {
+                    "category": "MCA",
+                    "variant": [{
+                        "name": "Master of Computer Applications",
+                        "fee": 160000,
+                        "duration": 2
+                    }]
+                },
+                {
+                    "category": "MCom",
+                    "variant": [{
+                        "name": "Master of Commerce",
+                        "fee": 110000,
+                        "duration": 2
+                    }]
+                },
+                {
+                    "category": "BBA",
+                    "variant": [{
+                        "name": "Bachelor of Business Administration",
+                        "fee": 150000,
+                        "duration": 3
+                    }]
+                },
+                {
+                    "category": "BCA",
+                    "variant": [{
+                        "name": "Bachelor of Computer Applications",
+                        "fee": 135000,
+                        "duration": 3
+                    }]
+                },
+                {
+                    "category": "BA",
+                    "variant": [{
+                        "name": "Bachelor of Arts",
+                        "fee": 85000,
+                        "duration": 3
+                    }]
+                },
+                {
+                    "category": "BCom",
+                    "variant": [{
+                        "name": "Bachelor of Commerce",
+                        "fee": 85000,
+                        "duration": 3
+                    }]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.amity.edu/",
+            "shortDescription":"The Amity Education Group is a not-for-profit organisation that was started in 1986 by the Chauhan Family. Today, the University has a presence in more than 11 countries with over 1,75,000 students.",
+            "longDescription":"The Amity Education Group is a not-for-profit organisation that was started in 1986 by the Chauhan Family. Today, the University has a presence in more than 11 countries with over 1,75,000 students. In order to cater to the educational needs of a larger segment of individuals, Amity took an initiative to offer education through the online mode. Thus, Amity University became the first university in India to gain approval from the UGC to offer online degrees in 2009. In order to ensure that students make the most out of their online learning experience, the university has set-up a one-of-its-kind platform, AMIGO, that takes care of all the study related needs of students. With its innovative thinking and futuristic approach, Amity University is closing the gaps in education by making quality higher education accessible to all",
+            "accreditation":["NAAC","WASC", "IET", "IACBE", "RICS", "UNWTO", "QAA"]
+        },
+    
+        {
+            "id": 2,
+            "collegeName": "Jain University",
+            "city": "Noida",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "HRM",
                             "fee": 150000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Finance",
+                            "fee": 150000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Marketing",
+                            "fee": 150000,
+                            "duration": 2
+                        },
+                        {
+                            
+                            "name": "General Management",
+                            "fee": 150000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Systems & Operations Management",
+                            "fee": 150000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Finance & Marketing",
+                            "fee": 170000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "HRM & Finance",
+                            "fee": 170000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Marketing & HRM",
+                            "fee": 170000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "IT",
+                            "fee": 170000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Healthcare Management",
+                            "fee": 170000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Logistics & SCM",
+                            "fee": 170000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Project Management",
+                            "fee": 170000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Entrepreneurship & Leadership",
+                            "fee": 170000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Retail Banking Operations",
+                            "fee": 170000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "International Finance",
+                            "fee": 260000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Business Intelligence & Analytics",
+                            "fee": 260000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCA",
+                    "variant": [
+                        {
+                            "name": "Computer Science & IT",
+                            "fee": 130000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Cyber Security",
+                            "fee": 170000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Data Analytics",
+                            "fee": 200000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Computer Science & IT",
+                            "fee": 130000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom",
+                    "variant": [
+                        {
+                            "name": "Accounting & Finance",
+                            "fee": 100000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "International Finance",
+                            "fee": 220000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MA",
+                    "variant": [
+                        {
+                            "name": "Master of Arts",
+                            "fee": 90000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BBA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 90000,
                             "duration": 3
                         }
-                    },
-                    {
-                        "category": "BCA",
-                        "variant": {
-                            "name": "Bachelor of Computer Applications (BCA)",
-                            "fee": 135000,
+                    ]
+                },
+                {
+                    "category": "BCom",
+                    "variant": [
+                        {
+                            "name": "Accounting & Finance",
+                            "fee": 120000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Corporate Accounting",
+                            "fee": 120000,
+                            "duration": 3
+                        },
+                        {
+                            "name": "International Finance & Accounting",
+                            "fee": 330000,
                             "duration": 3
                         }
-                    },
-                    {
-                        "category": "BA",
-                        "variant": {
-                            "name": "Bachelor of Arts (BA)",
-                            "fee": 85000,
-                            "duration": 3
-                        }
-                    },
-                    {
-                        "category": "BCom",
-                        "variant": {
-                            "name": "Bachelor of Commerce (BCom)",
-                            "fee": 85000,
-                            "duration": 3
-                        }
-                    }
-                ],
-                "rating": "",
-                "reviews": "",
-                "website": "https://www.amity.edu/",
-                "shortDescription":"The Amity Education Group is a not-for-profit organisation that was started in 1986 by the Chauhan Family. Today, the University has a presence in more than 11 countries with over 1,75,000 students.",
-                "longDescription":"The Amity Education Group is a not-for-profit organisation that was started in 1986 by the Chauhan Family. Today, the University has a presence in more than 11 countries with over 1,75,000 students. In order to cater to the educational needs of a larger segment of individuals, Amity took an initiative to offer education through the online mode. Thus, Amity University became the first university in India to gain approval from the UGC to offer online degrees in 2009. In order to ensure that students make the most out of their online learning experience, the university has set-up a one-of-its-kind platform, AMIGO, that takes care of all the study related needs of students. With its innovative thinking and futuristic approach, Amity University is closing the gaps in education by making quality higher education accessible to all",
-                "accreditation":["NAAC","WASC", "IET", "IACBE", "RICS", "UNWTO", "QAA"]
-            },
-            {
-                "id": 2,
-                "collegeName": "Jain University",
-                "city": "Noida",
-                "state": "Uttar Pradesh",
-                "country": "India",
-                "headerImgUrl": "",
-                "collegeLogoUrl": "",
-                "courses": [
-                    {
-                        "category": "MBA",
-                        "variant": [
-                            {
-                                "name": "HRM",
-                                "fee": 150000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Finance",
-                                "fee": 150000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Marketing",
-                                "fee": 150000,
-                                "duration": 2
-                            },
-                            {
-                                
-                                "name": "General Management",
-                                "fee": 150000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Systems & Operations Management",
-                                "fee": 150000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Finance & Marketing",
-                                "fee": 170000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "HRM & Finance",
-                                "fee": 170000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Marketing & HRM",
-                                "fee": 170000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "IT",
-                                "fee": 170000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Healthcare Management",
-                                "fee": 170000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Logistics & SCM",
-                                "fee": 170000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Project Management",
-                                "fee": 170000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Entrepreneurship & Leadership",
-                                "fee": 170000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Retail Banking Operations",
-                                "fee": 170000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "International Finance",
-                                "fee": 260000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Business Intelligence & Analytics",
-                                "fee": 260000,
-                                "duration": 2
-                            }
-                        ]
-                    },
-                    {
-                        "category": "MCA",
-                        "variant": [
-                            {
-                                "name": "Computer Science & IT",
-                                "fee": 130000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Cyber Security",
-                                "fee": 170000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Data Analytics",
-                                "fee": 200000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Computer Science & IT",
-                                "fee": 130000,
-                                "duration": 2
-                            }
-                        ]
-                    },
-                    {
-                        "category": "MCom",
-                        "variant": [
-                            {
-                                "name": "Accounting & Finance",
-                                "fee": 100000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "International Finance",
-                                "fee": 220000,
-                                "duration": 2
-                            }
-                        ]
-                    },
-                    {
-                        "category": "MA",
-                        "variant": [
-                            {
-                                "name": "Master of Arts",
-                                "fee": 90000,
-                                "duration": 2
-                            }
-                        ]
-                    },
-                    {
-                        "category": "BBA",
-                        "variant": [
-                            {
-                                "name": "Bachelor of Business Administration",
-                                "fee": 90000,
-                                "duration": 3
-                            }
-                        ]
-                    },
-                    {
-                        "category": "BCom",
-                        "variant": [
-                            {
-                                "name": "Accounting & Finance",
-                                "fee": 120000,
-                                "duration": 2
-                            },
-                            {
-                                "name": "Corporate Accounting",
-                                "fee": 120000,
-                                "duration": 3
-                            },
-                            {
-                                "name": "International Finance & Accounting",
-                                "fee": 330000,
-                                "duration": 3
-                            }
-                        ]
-                    }
-                ],
-                "rating": "",
-                "reviews": "",
-                "website": "https://www.jainuniversity.ac.in/",
-                "shortDescription": "Established in 1990, the Jain University was conferred upon the “Deemed-to-be-University” status by the UGC in 2009. Today, the University has prospered into 7 thriving campuses with over 18,310 currently enrolled with the university.",
-                "longDescription": "The university introduced its e-learning platform- Jain Online so as to serve as a one-stop destination for the educational needs of all the students. The university is constantly working towards establishing a conducive online learning atmosphere. To achieve the same, the university offers facilities like the opportunity to participate in sports events, wellness programmes, clubs and forums, on-campus workshops and events. Furthermore, the university also organises many adventure trips and international study tours to provide better learning opportunities to the students.",
-                "accreditation":["NAAC", "NBA"]
-            }
-            
-        ]
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.jainuniversity.ac.in/",
+            "shortDescription": "Established in 1990, the Jain University was conferred upon the “Deemed-to-be-University” status by the UGC in 2009. Today, the University has prospered into 7 thriving campuses with over 18,310 currently enrolled with the university.",
+            "longDescription": "The university introduced its e-learning platform- Jain Online so as to serve as a one-stop destination for the educational needs of all the students. The university is constantly working towards establishing a conducive online learning atmosphere. To achieve the same, the university offers facilities like the opportunity to participate in sports events, wellness programmes, clubs and forums, on-campus workshops and events. Furthermore, the university also organises many adventure trips and international study tours to provide better learning opportunities to the students.",
+            "accreditation":["NAAC", "NBA"]
+        }
+    ]
 
 
 
