@@ -13,69 +13,90 @@
             "courses": [
                 {
                     "category": "MBA",
-                    "variant": [{
-                        "name": "Master of Business Administration",
-                        "fee": 161000,
-                        "duration": 2
-                    }]
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 161000,
+                            "duration": 2
+                        }
+                    ]
                 },
                 {
                     "category": "MCA",
-                    "variant": [{
-                        "name": "Master of Computer Applications",
-                        "fee": 160000,
-                        "duration": 2
-                    }]
+                    "variant": [
+                        {
+                            "name": "Master of Computer Applications",
+                            "fee": 160000,
+                            "duration": 2
+                        }
+                    ]
                 },
                 {
                     "category": "MCom",
-                    "variant": [{
-                        "name": "Master of Commerce",
-                        "fee": 110000,
-                        "duration": 2
-                    }]
+                    "variant": [
+                        {
+                            "name": "Master of Commerce",
+                            "fee": 110000,
+                            "duration": 2
+                        }
+                    ]
                 },
                 {
                     "category": "BBA",
-                    "variant": [{
-                        "name": "Bachelor of Business Administration",
-                        "fee": 150000,
-                        "duration": 3
-                    }]
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 150000,
+                            "duration": 3
+                        }
+                    ]
                 },
                 {
                     "category": "BCA",
-                    "variant": [{
-                        "name": "Bachelor of Computer Applications",
-                        "fee": 135000,
-                        "duration": 3
-                    }]
+                    "variant": [
+                        {
+                            "name": "Bachelor of Computer Applications",
+                            "fee": 135000,
+                            "duration": 3
+                        }
+                    ]
                 },
                 {
                     "category": "BA",
-                    "variant": [{
-                        "name": "Bachelor of Arts",
-                        "fee": 85000,
-                        "duration": 3
-                    }]
+                    "variant": [
+                        {
+                            "name": "Bachelor of Arts",
+                            "fee": 85000,
+                            "duration": 3
+                        }
+                    ]
                 },
                 {
                     "category": "BCom",
-                    "variant": [{
-                        "name": "Bachelor of Commerce",
-                        "fee": 85000,
-                        "duration": 3
-                    }]
+                    "variant": [
+                        {
+                            "name": "Bachelor of Commerce",
+                            "fee": 85000,
+                            "duration": 3
+                        }
+                    ]
                 }
             ],
             "rating": "",
             "reviews": "",
             "website": "https://www.amity.edu/",
-            "shortDescription":"The Amity Education Group is a not-for-profit organisation that was started in 1986 by the Chauhan Family. Today, the University has a presence in more than 11 countries with over 1,75,000 students.",
-            "longDescription":"The Amity Education Group is a not-for-profit organisation that was started in 1986 by the Chauhan Family. Today, the University has a presence in more than 11 countries with over 1,75,000 students. In order to cater to the educational needs of a larger segment of individuals, Amity took an initiative to offer education through the online mode. Thus, Amity University became the first university in India to gain approval from the UGC to offer online degrees in 2009. In order to ensure that students make the most out of their online learning experience, the university has set-up a one-of-its-kind platform, AMIGO, that takes care of all the study related needs of students. With its innovative thinking and futuristic approach, Amity University is closing the gaps in education by making quality higher education accessible to all",
-            "accreditation":["NAAC","WASC", "IET", "IACBE", "RICS", "UNWTO", "QAA"]
+            "shortDescription": "The Amity Education Group is a not-for-profit organisation that was started in 1986 by the Chauhan Family. Today, the University has a presence in more than 11 countries with over 1,75,000 students.",
+            "longDescription": "The Amity Education Group is a not-for-profit organisation that was started in 1986 by the Chauhan Family. Today, the University has a presence in more than 11 countries with over 1,75,000 students. In order to cater to the educational needs of a larger segment of individuals, Amity took an initiative to offer education through the online mode. Thus, Amity University became the first university in India to gain approval from the UGC to offer online degrees in 2009. In order to ensure that students make the most out of their online learning experience, the university has set-up a one-of-its-kind platform, AMIGO, that takes care of all the study related needs of students. With its innovative thinking and futuristic approach, Amity University is closing the gaps in education by making quality higher education accessible to all",
+            "accreditation": [
+                "NAAC",
+                "WASC",
+                "IET",
+                "IACBE",
+                "RICS",
+                "UNWTO",
+                "QAA"
+            ]
         },
-    
         {
             "id": 2,
             "collegeName": "Jain University",
@@ -104,7 +125,6 @@
                             "duration": 2
                         },
                         {
-                            
                             "name": "General Management",
                             "fee": 150000,
                             "duration": 2
@@ -257,14 +277,2490 @@
             "website": "https://www.jainuniversity.ac.in/",
             "shortDescription": "Established in 1990, the Jain University was conferred upon the “Deemed-to-be-University” status by the UGC in 2009. Today, the University has prospered into 7 thriving campuses with over 18,310 currently enrolled with the university.",
             "longDescription": "The university introduced its e-learning platform- Jain Online so as to serve as a one-stop destination for the educational needs of all the students. The university is constantly working towards establishing a conducive online learning atmosphere. To achieve the same, the university offers facilities like the opportunity to participate in sports events, wellness programmes, clubs and forums, on-campus workshops and events. Furthermore, the university also organises many adventure trips and international study tours to provide better learning opportunities to the students.",
-            "accreditation":["NAAC", "NBA"]
-        }
-    ]
-
-
-
+            "accreditation": [
+                "NAAC",
+                "NBA"
+            ]
+        },
+        {
+            "id": 3,
+            "collegeName": "NMIMS",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 168000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Executive Master of Business Administration",
+                            "fee": 475000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "Certificate",
+                    "variant": [
+                        {
+                            "name": "Certificate Programmes",
+                            "fee": 41000,
+                            "duration": 0.5
+                        }
+                    ]
+                },
+                {
+                    "category": "Diploma",
+                    "variant": [
+                        {
+                            "name": "Diploma Programmes",
+                            "fee": 91000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "BBA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 131000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCom",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Commerce",
+                            "fee": 94000,
+                            "duration": 3
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.nmims.edu/",
+            "shortDescription": "Established in 1994, theNMIMS Global Access School for Continuing Education (NGA-SCE) is a premier higher education institution that offers skill-based and career-oriented education. Ever since its establishment, the institute has been carving the path for students to advance in their careers and fulfil their dreams.",
+            "longDescription": "Established in 1994, theNMIMS Global Access School for Continuing Education (NGA-SCE) is a premier higher education institution that offers skill-based and career-oriented education. Ever since its establishment, the institute has been carving the path for students to advance in their careers and fulfil their dreams. The course curriculum of various courses offered by the institute is designed to cater to the unique needs of working professionals. The industry-oriented courses and experiential learning pedagogy ensure that students become job-ready. Furthermore, NGASCE offers support services to make sure that all the doubts of students get resolved at the earliest. The University also offers placement services to students enrolled in distance learning courses.",
+            "accreditation": [
+                "AACSB",
+                "NAAC",
+                "AICTE"
+            ]
+        },
+        {
+            "id": 4,
+            "collegeName": "Chandigarh University",
+            "city": "Chandigarh",
+            "state": "Punjab",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "MBA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 65360,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Computer Applications",
+                            "fee": 57400,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Commerce",
+                            "fee": 454000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Arts - English",
+                            "fee": 49400,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Master of Arts - Psychology",
+                            "fee": 49400,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BBA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 80100,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Computer Applications",
+                            "fee": 80100,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Arts",
+                            "fee": 65700,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Commerce",
+                            "fee": 68100,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MA JMC",
+                    "variant": [
+                        {
+                            "name": "Master of Arts - Journalism & Mass Communication",
+                            "fee": 100000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom",
+                    "variant": [
+                        {
+                            "name": "Master of Commerce",
+                            "fee": 130000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Master of Commerce with ACCA",
+                            "fee": 300000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 200000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MSc",
+                    "variant": [
+                        {
+                            "name": "Master of Science - Data Science",
+                            "fee": 120000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Master of Science - Mathematics",
+                            "fee": 100000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MA",
+                    "variant": [
+                        {
+                            "name": "Master of Arts",
+                            "fee": 100000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCA",
+                    "variant": [
+                        {
+                            "name": "Master of Computer Applications",
+                            "fee": 120000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BA JMC",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Arts - Journalism & Mass Communication",
+                            "fee": 135000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BBA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 156000,
+                            "duration": 3
+                        },
+                        {
+                            "name": "Bachelor of Business Administration with ACCA",
+                            "fee": 400000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Computer Applications",
+                            "fee": 165000,
+                            "duration": 3
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.cuchd.in/",
+            "shortDescription": "Established in 2012, Chandigarh University is a leading educational institution offering its students a unique amalgamation of professional and academic excellence. The university has been accredited with the prestigious A+ grade by the National Assessment and Accreditation Council (NAAC).",
+            "longDescription": "Established in 2012, Chandigarh University is a leading educational institution offering its students a unique amalgamation of professional and academic excellence. The university has been accredited with the prestigious A+ grade by the National Assessment and Accreditation Council (NAAC). In order to provide quality higher education to a larger chunk of people, the university has established a Open & Distance Learning and an Online Learning Arm. Both these institutions offer a diverse range of programmes paired with flexibility, experiential learning and interdisciplinary orientation. It allows students to explore their interests and pursue their dream careers. In order to make sure that students can reap maximum benefits out of their distance/ online learning experience, the university has in place an advanced learning management system. Students can use it to access study material and track their progress.",
+            "accreditation": [
+                "NAAC"
+            ]
+        },
+        {
+            "id": 5,
+            "collegeName": "ICFAI Foundation for Higher Education (IFHE) Centre for Distance and Online Education (CDOE)",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 75000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BBA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 60000,
+                            "duration": 3
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.jainuniversity.ac.in/",
+            "shortDescription": "Established in 1984, the ICFAI Group is a pioneer in the sector of higher education. The ICFAI Foundation for Higher Education is located in Hyderabad and is a premium business school in India.",
+            "longDescription": "Established in 1984, the ICFAI Group is a pioneer in the sector of higher education. The ICFAI Foundation for Higher Education is located in Hyderabad and is a premium business school in India. Over the past many years, the institute has been disseminating knowledge and skills in core and frontier educational areas. The university has adopted an innovative approach wherein it imparts learning through research, consulting and publishing. IFHE established the Center for Distance & Online Education (CDOE) to offer programmes in the distance mode. The centre is dedicated to meet the needs of business organisations in the continuously evolving industrial environment.",
+            "accreditation": [
+                "NAAC",
+                "AACSB",
+                "SAQS",
+                "AICTE"
+            ]
+        },
+        {
+            "id": 6,
+            "collegeName": "School of Distance Education and Learning (SODEL), Jaipur National University",
+            "city": "Jaipur",
+            "state": "Rajhasthan",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 50000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MA",
+                    "variant": [
+                        {
+                            "name": "Master of Arts - English",
+                            "fee": 42000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCA",
+                    "variant": [
+                        {
+                            "name": "Master of Computer Applications",
+                            "fee": 50000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MSc",
+                    "variant": [
+                        {
+                            "name": "Master of Science - Mathematics",
+                            "fee": 50000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BBA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 57000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Arts",
+                            "fee": 45000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Computer Applications",
+                            "fee": 57000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCom",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Commerce",
+                            "fee": 51000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BSc",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Science",
+                            "fee": 57000,
+                            "duration": 3
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.jnujaipur.ac.in/",
+            "shortDescription": "Established in 2009, the School of Distance Education and Learning, Jaipur National University has received recognition from UGC-DEC as well as AICTE for various programmes. ",
+            "longDescription": "Established in 2009, the School of Distance Education and Learning, Jaipur National University has received recognition from UGC-DEC as well as AICTE for various programmes. The school is in a constant endeavour to provide easy access to quality higher education to a large segment of individuals. It provides students with advanced self-learning material and extensive support to encourage them to become lifelong learners. The SODEL also offers academic counselling services to students. It allows students to learn at their own pace and convenience. The credit based evaluation system helps students to accumulate credits according to their own ease. Moreover, there is no age bar on who can pursue education from SODEL.",
+            "accreditation": [
+                "AICTE",
+                "NAAC",
+                "NCTE",
+                "UGC DEC"
+            ]
+        },
+        {
+            "id": 7,
+            "collegeName": "Indira Gandhi National Open University (IGNOU)",
+            "city": "New Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "MA",
+                    "variant": [
+                        {
+                            "name": "Master of Arts",
+                            "fee": 4500,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom",
+                    "variant": [
+                        {
+                            "name": "Master of Commerce",
+                            "fee": 18000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 56000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCA",
+                    "variant": [
+                        {
+                            "name": "Master of Computer Applications",
+                            "fee": 48000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BCA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Computer Applications",
+                            "fee": 36000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BSW",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Social Work",
+                            "fee": 35400,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCom",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Commerce",
+                            "fee": 24000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BLIS",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Library & Information Science",
+                            "fee": 7900,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Bachelor of Tourism",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Tourism",
+                            "fee": 3400,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Arts - General",
+                            "fee": 7200,
+                            "duration": 3
+                        },
+                        {
+                            "name": "Bachelor of Arts - Honors",
+                            "fee": 9600,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BSc - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Science",
+                            "fee": 15600,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Commerce",
+                            "fee": 6000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MBA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 62000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Commerce",
+                            "fee": 7000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Computer Applications",
+                            "fee": 48000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Arts",
+                            "fee": 10800,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MSc - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Science",
+                            "fee": 33000,
+                            "duration": 2
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "http://www.ignou.ac.in/",
+            "shortDescription": "Founded in 1985, Indira Gandhi National Open University has risen to the mark of the largest university in the world in terms of enrollment. The university is regarded as the leader in distance education and was conferred with excellence awards by the Commonwealth of Learning (COL), Canada.",
+            "longDescription": "Founded in 1985, Indira Gandhi National Open University has risen to the mark of the largest university in the world in terms of enrollment. The university is regarded as the leader in distance education and was conferred with excellence awards by the Commonwealth of Learning (COL), Canada. It has a broad network of 69 regional centres and a strong international presence with 25 overseas study centres. IGNOU is the widely chosen government university for its distance and online learning programmes. Pursuing degrees from a central government institution adds higher credibility to a student’s profile. Under the online and distance learning centres, the university offers courses from diploma to PhD level.",
+            "accreditation": [
+                "NAAC",
+                "AICTE"
+            ]
+        },
+        {
+            "id": 8,
+            "collegeName": "MICA",
+            "city": "Ahemdabad",
+            "state": "Gujurat",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "DMC-S",
+                    "variant": [
+                        {
+                            "name": "Digital Marketing & Communication with Specialisation",
+                            "fee": 109045,
+                            "duration": 0.6
+                        }
+                    ]
+                },
+                {
+                    "category": "AMPR",
+                    "variant": [
+                        {
+                            "name": "Advertising Management and Public Relations",
+                            "fee": 130000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "MBMC",
+                    "variant": [
+                        {
+                            "name": "Managing Brands and Marketing Communication",
+                            "fee": 80000,
+                            "duration": 0.3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCM",
+                    "variant": [
+                        {
+                            "name": "Brand Communication Management",
+                            "fee": 95000,
+                            "duration": 0.4
+                        }
+                    ]
+                },
+                {
+                    "category": "SBMC",
+                    "variant": [
+                        {
+                            "name": "Strategic Brand Management and Communication",
+                            "fee": 99000,
+                            "duration": 0.5
+                        }
+                    ]
+                },
+                {
+                    "category": "SCS",
+                    "variant": [
+                        {
+                            "name": "Executive Certificate Program in Strategic Communication with Storytelling",
+                            "fee": 110000,
+                            "duration": 0.6
+                        }
+                    ]
+                },
+                {
+                    "category": "SMP",
+                    "variant": [
+                        {
+                            "name": "The Emerging CMO: A Certificate Program for Senior Marketing Professionals",
+                            "fee": 210000,
+                            "duration": 0.8
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.mica.ac.in/",
+            "shortDescription": "Founded in 1991, MICA is an autonomous, non-profit institution that has been offering a wide range of academic programmes online for a decade. Regarded as the only residential institute in the Asia-Pacific, MICA is dedicated to creating leadership in Strategic Marketing and Communication. The institute offers online programmes ranging from a duration of four months to one year, in association with its technology partners such as UpGrad, Talentedge, Emeritus, and TimesPro. ",
+            "longDescription": "Founded in 1991, MICA is an autonomous, non-profit institution that has been offering a wide range of academic programmes online for a decade. Regarded as the only residential institute in the Asia-Pacific, MICA is dedicated to creating leadership in Strategic Marketing and Communication. The institute offers online programmes ranging from a duration of four months to one year, in association with its technology partners such as UpGrad, Talentedge, Emeritus, and TimesPro. These online programs are carefully designed to cover the basics and latest advancements in the field. MICA believes that the edge with the right set of people and their experiences across the globe builds a global mindset in candidates to furnish their professional dreams. MICA is committed to making the student industry ready. Along with MICA faculty, industry specialists are also invited to take classes and enhance the efficiency of the programmes. With alumni sitting in leadership positions in some of the top-notch brands, MICA stays at the forefront of bringing A+ academic facilities to all.",
+            "accreditation": [
+                "NBA",
+                "AICTE",
+                "Chartered Institute of Marketing, UK"
+            ]
+        },
+        {
+            "id": 9,
+            "collegeName": "Maharshi Dayanand University",
+            "city": "Rohtak",
+            "state": "Haryana",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "BA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Arts",
+                            "fee": 8950,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Commerce",
+                            "fee": 9600,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Arts",
+                            "fee": 9600,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Commerce",
+                            "fee": 10900,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MSc - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Science - Mathematics",
+                            "fee": 10900,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MLIS - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Library & Information Science",
+                            "fee": 16000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom",
+                    "variant": [
+                        {
+                            "name": "Master of Commerce",
+                            "fee": 24200,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MSc",
+                    "variant": [
+                        {
+                            "name": "Master of Science - Mathematics",
+                            "fee": 24200,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Arts",
+                            "fee": 24200,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MA",
+                    "variant": [
+                        {
+                            "name": "Master of Arts",
+                            "fee": 24200,
+                            "duration": 2
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.mdu.ac.in/",
+            "shortDescription": "Knowing that education plays a pivotal role in national development, in 1988, Maharshi Dayanand University, Rohtak, established a Correspondence Cell. With consistent development and growth, the Correspondence Cell could upgrade to a directorate, and today, it has a wide range of programs.",
+            "longDescription": "Knowing that education plays a pivotal role in national development, in 1988, Maharshi Dayanand University, Rohtak, established a Correspondence Cell. With consistent development and growth, the Correspondence Cell could upgrade to a directorate, and today, it has a wide range of programs. All the programmes at CDOE are crafted as per the current demands of the market and employment trends in the country. The Directorate aims to provide high-class educational facilities to people living in remote and rural areas, homemakers, and working professionals so that education can become barrier-free. The programmes offered by the university are benchmarked against the highest global standards. The seasoned faculty with rich experience of the university assists its students in achieving academic excellence and lifelong learning.",
+            "accreditation": [
+                "NAAC",
+                "UGC",
+                "NIRF"
+            ]
+        },
     
-   
+        {
+            "id": 10,
+            "collegeName": "Bharati Vidyapeeth",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "BA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Arts",
+                            "fee": 17500,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Commerce",
+                            "fee": 17500,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Arts - English",
+                            "fee": 16200,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Commerce",
+                            "fee": 16200,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BBA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 64600,
+                            "duration": 3
+                        },
+                        {
+                            "name": "Bachelor of Business Administration - Honors",
+                            "fee": 85800,
+                            "duration": 4
+                        }
+                    ]
+                },
+                {
+                    "category": "BCA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Computer Applications",
+                            "fee": 64600,
+                            "duration": 3
+                        },
+                        {
+                            "name": "Bachelor of Computer Applications - Honors",
+                            "fee": 85800,
+                            "duration": 4
+                        }
+                    ]
+                },
+                {
+                    "category": "MBA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 80200,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Computer Applications",
+                            "fee": 80200,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "Diploma - ODL",
+                    "variant": [
+                        {
+                            "name": "Digital Marketing",
+                            "fee": 22200,
+                            "duration": 1
+                        },
+                        {
+                            "name": "Big Data Analytics",
+                            "fee": 22200,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "BBA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 102000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 128000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BCA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Computer Applications",
+                            "fee": 102000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MCA",
+                    "variant": [
+                        {
+                            "name": "Master of Computer Applications",
+                            "fee": 112000,
+                            "duration": 2
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.bvuniversity.edu.in/",
+            "shortDescription": "Established in 1964, Bharati Vidyapeeth Deemed to be University is spread over 8 campuses in different locations in India. The university is ranked among the top universities in India.",
+            "longDescription": "Established in 1964, Bharati Vidyapeeth Deemed to be University is spread over 8 campuses in different locations in India. The university is ranked among the top universities in India. The Centre for Online and Distance Education at Bharati Vidyapeeth is committed to making education accessible to remote locations and those who wish to pursue their professional commitments. The Centre offers courses in both distance and online formats to promote a culture of self-paced learning and skill development as per the ease of a student. The quality-driven programmes and modern teaching pedagogy at Bharati Vidyapeeth bridge the gap between online and offline learning. The course structure of the programmes is practical based, facilitating industry-oriented training.",
+            "accreditation": [
+                "AICTE",
+                "UGC",
+                "NIRF 91st rank",
+                "NAAC A+"
+            ]
+        },
     
+        {
+            "id": 11,
+            "collegeName": "Online Manipal",
+            "city": "Manipal",
+            "state": "Karnataka",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 166000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BCA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Computer Applications",
+                            "fee": 135000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BBA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 126000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MSc",
+                    "variant": [
+                        {
+                            "name": "Master of Science",
+                            "fee": 260000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCA",
+                    "variant": [
+                        {
+                            "name": "Master of Computer Applications",
+                            "fee": 150000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom",
+                    "variant": [
+                        {
+                            "name": "Master of Commerce",
+                            "fee": 100000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MA",
+                    "variant": [
+                        {
+                            "name": "Master of Arts",
+                            "fee": 130000,
+                            "duration": 2
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.onlinemanipal.com/",
+            "shortDescription": "With a legacy of 60 years, Manipal University has been conferred “Institution of Eminence” status by the Ministry of Education, Government of India. Over the years, Manipal Group has spread its arms with campuses across India and overseas.",
+            "longDescription": "With a legacy of 60 years, Manipal University has been conferred “Institution of Eminence” status by the Ministry of Education, Government of India. Over the years, Manipal Group has spread its arms with campuses across India and overseas. The Online Manipal initiative by the Manipal Group aims to make quality education accessible to a wider population using advanced technology. Founded in 2021, Online Manipal has catered for the academic needs of over 30,000 learners for a diverse range of professional courses. On a regular basis, the university provides its students with a chance to network with professionals through online sessions and experience world-class education in the comfort of their houses. This has made its online programmes at par with the on-campus degrees.",
+            "accreditation": [
+                "AICTE",
+                "UGC",
+                "NIRF 151-200",
+                "NAAC A+",
+                "WES"
+            ]
+        },
     
+        {
+            "id": 12,
+            "collegeName": "SRM Institute of Science and Technology",
+            "city": "Kattankulathur",
+            "state": "Chennai",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "BBA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 18000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MBA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 60000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BCA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Computer Applications",
+                            "fee": 30000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MCA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Computer Applications",
+                            "fee": 60000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Commerce",
+                            "fee": 18000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Commerce",
+                            "fee": 16000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BBA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 129000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Computer Applications",
+                            "fee": 129000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 189000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCA",
+                    "variant": [
+                        {
+                            "name": "Master of Computer Applications",
+                            "fee": 150000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom",
+                    "variant": [
+                        {
+                            "name": "Master of Commerce",
+                            "fee": 100000,
+                            "duration": 2
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.srmist.edu.in/",
+            "shortDescription": "Since its inception in 1985, SRM Institute has been setting benchmarks year after year. The institute is considered to be one of the top-ranking universities in India, with campuses across the nation.",
+            "longDescription": "Since its inception in 1985, SRM Institute has been setting benchmarks year after year. The institute is considered to be one of the top-ranking universities in India, with campuses across the nation. Along with world-class regular offline programmes, the university has a UGC-accredited Directorate of Distance and Online Education. The institute combines the best features available in on-campus programmes with distance and online education models. The courses offered by the university under these two directorates are job-oriented and lay out equal educational opportunities for those without access to traditional classroom-based learning. SRM’s online mentoring and objective evaluation system gives huge credibility to its online and distance education programmes.",
+            "accreditation": [
+                "QS | Gauge",
+                "UGC",
+                "NIRF 32",
+                "NAAC A++",
+                "MHRD",
+                "ARIIA"
+            ]
+        },{
+            "id": 19,
+            "collegeName": "Bharathiar University",
+            "city": "Coimbatore",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+        
+                {
+                    "category": "BCom",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Commerce (BCom)",
+                            "fee": 44880,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom",
+                    "variant": [
+                        {
+                            "name": "All variant",
+                            "fee": 44880,
+                            "duration": 2
+                        }
+                    ]
+                },{
+                    "category": "BA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Arts English Literature (BA English Literature)",
+                            "fee": 50580 ,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MA",
+                    "variant": [
+                        {
+                            "name": "Master of Arts",
+                            "fee": 44880 ,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BBA",
+                    "variant": [
+                        {
+                            "name": "All variant",
+                            "fee": 50580,
+                            "duration": 3
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://b-u.ac.in/",
+            "shortDescription": "With its state-of-the-art facilities and experienced faculty, Bharathiar University has become an eminent MHRD National Knowledge Network partner. The experiential learning pattern and career mentorship provided by the university have helped many learners in their professional journey.",
+            "longDescription": "Established in 1982 by the Government of Tamil Nadu in Coimbatore, the university provides a wide range of graduate, post-graduate, MPhil, and PhD programmes. The university ranks 21st among the top 100 institutions in the NIRF ranking. Built on the thought of Educate and Elevate, the university seeks to realise the vision of India in making education accessible to everyone.",
+        
+            "accreditation":["UGC","NAAC","NIRF"]
+        },{
+            "id": 20,
+            "collegeName": "Chitkara University",
+            "city": "Rajpura",
+            "state": "Punjab",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+        
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "International Finance & Accounting (with ACCA)",
+                            "fee": 300000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Marketing  Management",
+                            "fee": 200000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Finance  Management",
+                            "fee": 200000,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Analytics",
+                            "fee": 250000,
+                            "duration": 2
+                        },                {
+                            "name": "Human Resource Management",
+                            "fee": 200000,
+                            "duration": 2
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://onlinechitkarau.com/?utm_source=referral",
+            "shortDescription": "Studying at a NAAC A+ accredited university ensures high graduate employability. Along with a comprehensive curriculum, the university provides placement support and prepares its students to become job providers and not just job seekers.",
+            "longDescription": "Established by the Chitkara Educational Trust in 2002, Chitkara University is now regarded as one of the best private universities in the North India region. With a student-centric approach, the university offers various multi-disciplinary programmes. The university is ranked in the prestigious QS University Rankings, which makes their degrees extremely credible in the global sector."
+            ,
+        
+            "accreditation":["UGC","AIU","NAAC A+","AICTE"]
+        },{
+            "id": 21,
+            "collegeName": "O.P. Jindal Global University",
+            "city": "Sonipat",
+            "state": "Haryana",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration Business Analytics (MBA Business Analytics)",
+                            "fee": 487500,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Master of Business Administration Digital Finance and Banking  (MBA Digital Finance and Banking)",
+                            "fee": 350000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MA",
+                    "variant": [
+                        {
+                            "name": "Master of Arts Public Policy (MA Public Policy)",
+                            "fee": 450000 ,
+                            "duration": 2
+                        },
+                        {
+                            "name": "Master of Arts International Relations, Security, and Strategy (MA International Relations, Security, and Strategy)",
+                            "fee": 450000,
+                            "duration": 2
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://jgu.edu.in/online-learning/",
+            "shortDescription": "O.P. Jindal University’s collaborative online programmes with upGrad and Coursera make the courses highly personalised and acceptable in the industry globally. Moreover, the university’s collaboration with top-ranking firms and international institutions has resulted in a higher graduate employability ratio.",
+            "longDescription": "Founded by Mr. Naveen Jindal in 2009, O.P. Jindal Global University is a non-profit, multidisciplinary university bestowed with prestigious national and international rankings. The institution is counted among the top 150 universities globally aged under 50 years by the QS Young Universities ranking and the #1 private university by QS World University Ranking 2023."
+            ,
+            "accreditation": ["UGC", "NAAC A", "QS World University Ranking"]
+        },{
+            "id": 22,
+            "collegeName": "Dr. D.Y. Patil Vidyapeeth, Pune",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "BBA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration (BBA)",
+                            "fee": 102200,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration (MBA)",
+                            "fee": 140200,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "certificate",
+                    "variant": [
+                        {
+                            "name": "Certificate Programme in Digital Marketing",
+                            "fee": 28000,
+                            "duration": 300
+                        },
+                        {
+                            "name": "Certificate Programme in Hospital & Health Care Management",
+                            "fee": 28000,
+                            "duration": 300
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.dypatilonline.com/admissions.aspx",
+            "shortDescription": " With a proven history of academic excellence, the institute has provided customised curricula in all online programmes. It offers a scholarship of Rs. 3,000/- to the students who pay the full fee in one transaction for online MBA and BBA programmes. ",
+            "longDescription": "Dr. D.Y. Patil Vidyapeeth (Deemed to be University) holds a legacy of 38 years of excellence in quality education. The institution was ranked among the top 50 universities by NIRF, making D.Y. Patil Group a well-renowned name in the education sector. With the Centre for Online Learning (DPU-COL), the institute aims to expand the length of education and facilitate those unable to attend regular classes for various reasons.",
+            "accreditation": ["UGC", "AICTE", "NAAC A++", "NIRF- Rank 81"]
+        },
+        {
+            "id": 23,
+            "collegeName": "Dr. D.Y. Patil University Online, Navi Mumbai",
+            "city": "Navi Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "BBA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 99000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BSc",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Science Hospitality Studies",
+                            "fee": 99000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "Bachelors",
+                    "variant": [
+                        {
+                            "name": "Bachelor in Culinary Studies",
+                            "fee": 99000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "EMBA",
+                    "variant": [
+                        {
+                            "name": "Executive Master of Business Administration",
+                            "fee": 150000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 160000,
+                            "duration": 2
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://dypatilonline.com/",
+            "shortDescription": "All the online programmes are accredited by UGC and AICTE. The university provides a plethora of learning resources for each program through e-learning patterns and modern Learning Management System (LMS)",
+            "longDescription": "Dr. D.Y. Patil Deemed to Be University is renowned in the country for its academic excellence and innovative teaching methodology. Industry experts and seasoned academicians design the university curriculum intending to prepare students for leadership roles.",
+            "accreditation": ["UGC - DEB", "AICTE", "NAAC"]
+        },{
+            "id": 24,
+            "collegeName": "Lovely Professional University",
+            "city": "Jalandhar",
+            "state": "Punjab",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration (MBA)",
+                            "fee": 62000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCA",
+                    "variant": [
+                        {
+                            "name": "Master of Computer Applications (MCA)",
+                            "fee": 62000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MSc",
+                    "variant": [
+                        {
+                            "name": "Master of Science (Information Technology)",
+                            "fee": 62000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom",
+                    "variant": [
+                        {
+                            "name": "Master of Commerce (MCom)",
+                            "fee": 42000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MA",
+                    "variant": [
+                        {
+                            "name": "Master of Arts (MA)",
+                            "fee": 30000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MLIS",
+                    "variant": [
+                        {
+                            "name": "Master of Library and Information Sciences (MLIS)",
+                            "fee": 15000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "BBA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration (BBA)",
+                            "fee": 81000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Computer Applications (BCA)",
+                            "fee": 81000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BSc",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Science, Information Technology (BSc IT)",
+                            "fee": 81000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCom",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Commerce (BCom)",
+                            "fee": 63000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BA",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Arts (BA)",
+                            "fee": 42000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BLIS",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Library and Information Sciences (BLIS)",
+                            "fee": 15000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Diploma",
+                    "variant": [
+                        {
+                            "name": "Diploma in Computer Applications (DCA)",
+                            "fee": 27000,
+                            "duration": 1
+                        },
+                        {
+                            "name": "Diploma in Library and Information Sciences (DLIS)",
+                            "fee": 15000,
+                            "duration": 1
+                        },
+                        {
+                            "name": "Diploma in Business Administration (DBA)",
+                            "fee": 27000,
+                            "duration": 1
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.lpude.in/",
+            "shortDescription": "LPU provides students the chance to participate in campus events, thus encouraging holistic development. It also provides advanced career support services to help students secure a well-paying job.",
+            "longDescription": "Lovely Professional University (LPU) was established in 2005. Today, it is recognised as one of the premier educational institutions in India, securing the 41st rank in the prestigious NIRF rankings.",
+            "accreditation": ["NIRF- 46", "AICTE", "UGC", "WES"]
+        },{
+            "id": 25,
+            "collegeName": "Indian Institute of Management Raipur",
+            "city": "Raipur",
+            "state": "Chhattisgarh",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "Executive Development Programme",
+                    "variant": [
+                        {
+                            "name": "General Management",
+                            "fee": 269040,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Senior Management Programme",
+                    "variant": [
+                        {
+                            "name": "Senior Management",
+                            "fee": 300000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Strategic Chief Marketing Officers",
+                    "variant": [
+                        {
+                            "name": "Strategic Chief Marketing Officers",
+                            "fee": 214000,
+                            "duration": 0.833
+                        }
+                    ]
+                },
+                {
+                    "category": "Strategic Chief Operating Officers",
+                    "variant": [
+                        {
+                            "name": "Strategic Chief Operating Officers",
+                            "fee": 264000,
+                            "duration": 0.833
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.iimraipur.ac.in/",
+            "shortDescription": "Indian Institute of Management Raipur was established in 2010 by the Ministry of Education (earlier Ministry of Human Resource Development), Government of India. It is regarded among the top 5 new IIMs in the country.",
+            "longDescription": "In view of technologically advanced learning systems, the Virtual Learning initiative at IIM Raipur offers several programmes in management areas with market-specific specializations. The virtual learning system at IIM Raipur provides an alternative, faster and cost-effective way to upskill.",
+          
+            "accreditation": ["Institute of National Importance", "11th Rank in NIRF 2023", "Ministry of Education"]
+        },{
+            "id": 26,
+            "collegeName": "Indian Institute of Management Kozhikode",
+            "city": "Kozhikode",
+            "state": "Kerala",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration – Kochi Campus",
+                            "fee": 1200000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "Executive Post Graduate Certificate Programs",
+                    "variant": [
+                        {
+                            "name": "Executive Post Graduate Certificate Programs",
+                            "fee": 350000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Executive Post Graduate Program in Management",
+                    "variant": [
+                        {
+                            "name": "Executive Post Graduate Program in Management",
+                            "fee": 1470000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "Management Development Programs",
+                    "variant": [
+                        {
+                            "name": "Management Development Programs",
+                            "fee": 150000,
+                            "duration": 1
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.iimk.ac.in/",
+            "shortDescription": "The institute is best known for its blended hybrid programmes for working executives. Other than coursework, IIMK offers unique non-academic facilities to students aiding their overall grooming.",
+            "longDescription": "Founded by the Government of India in 1996, Kozhikode became the 5th IIM in the country. The institute has provided quality education for more than two decades through its interactive learning programmes for working executives.",
+            "accreditation": ["EQUIS", "AMBA", "AACSB", "NIRF", "QS Asia Rankings"]
+        },
+        {
+            "id": 27,
+            "collegeName": "Indian Institute of Management, Ahmedabad (IIMA)",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "Live courses",
+                    "variant": [
+                        {
+                            "name": "Financial Reporting and Corporate Governance – Blended Learning",
+                            "fee": 191000,
+                            "duration": 0.33
+                        },
+                        {
+                            "name": "Decision Making using Game Theory",
+                            "fee": 100000,
+                            "duration": 0.083
+                        },
+                        {
+                            "name": "Executive Program in Business Finance – Blended Learning",
+                            "fee": 343000,
+                            "duration": 0.5
+                        },
+                        {
+                            "name": "Elephants & Cheetahs: Operations Strategy",
+                            "fee": 150000,
+                            "duration": 0.166
+                        },
+                        {
+                            "name": "Accelerated General Management Program – Blended Learning",
+                            "fee": 690000,
+                            "duration": 1
+                        },
+                        {
+                            "name": "Senior Management Program – Blended Learning",
+                            "fee": 815000,
+                            "duration": 1
+                        },
+                        {
+                            "name": "Executive Program in Supply Chain and Logistics Management – Blended Learning",
+                            "fee": 325000,
+                            "duration": 0.5
+                        },
+                        {
+                            "name": "Program on Strategic Management",
+                            "fee": 281000,
+                            "duration": 0.5
+                        }
+                    ]
+                },
+                {
+                    "category": "Free courses",
+                    "variant": [
+                        {
+                            "name": "Behavioral Finance – Influence of Heuristics and Biases",
+                            "fee": 0,
+                            "duration": 0.5
+                        },
+                        {
+                            "name": "Leadership Skills",
+                            "fee": 0,
+                            "duration": 0.5
+                        },
+                        {
+                            "name": "HRM Strategy Execution",
+                            "fee": 0,
+                            "duration": 0.5
+                        },
+                        {
+                            "name": "Pre MBA Statistics",
+                            "fee": 0,
+                            "duration": 0.120
+                        },
+                        {
+                            "name": "Digital Transformation: Theory and Applications",
+                            "fee": 0,
+                            "duration": 0.125
+                        },
+                        {
+                            "name": "Behavioral Finance – Influence of Heuristics and Biases",
+                            "fee": 0,
+                            "duration": 0.125
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.iima.ac.in/",
+            "shortDescription": "A degree from a nationally and internationally accredited institution like IIMA can add high credibility to a candidate's profile, opening better work opportunities. The curriculum of its programs is assessed timely by industry experts and well-established academicians of the country.",
+            "longDescription": "Named India’s finest and Asia’s foremost business school, the Indian Institute of Management Ahmedabad is among the top management institutes in India. Its EQUIS (European Quality Improvement System) accreditation proves that the quality of academic programmes at IIMA is at par with global standards.",
+            "accreditation": ["EQUIS", "1st Rank in NIRF 2023 (Management category)"]
+        },{
+            "id": 28,
+            "collegeName": "Indian Institute of Management, Amritsar",
+            "city": "Amritsar",
+            "state": "Punjab",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "Executive MBA",
+                    "variant": [
+                        {
+                            "name": "Executive MBA",
+                            "fee": 1200000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "Executive Certificate",
+                    "variant": [
+                        {
+                            "name": "Digital Marketing & Analytics",
+                            "fee": 60000,
+                            "duration": 0.3333
+                        },
+                        {
+                            "name": "Product and Brand Management",
+                            "fee": 60000,
+                            "duration": 0.3333
+                        }
+                    ]
+                },
+                {
+                    "category": "Post-Graduate Certification Program",
+                    "variant": [
+                        {
+                            "name": "Global Logistics and Freight Management",
+                            "fee": 0,
+                            "duration": 0.5
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence Program",
+                    "variant": [
+                        {
+                            "name": "Defence Program",
+                            "fee": 0,
+                            "duration": 0.5
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.iimamritsar.ac.in/",
+            "shortDescription": "Indian Institute of Management Amritsar is set up by the Ministry of Education (earlier Ministry of Human Resource Development) with the support of the Government of Punjab...",
+            "longDescription": "Along with residential post-graduate and doctoral programmes in different specialisations, IIM Amritsar also has hybrid Executive MBA and certificate programmes delivered online. In the past seven years of its inception, the institution has made its name in providing high-quality management education...",
+            "accreditation": ["Institute of National Importance", "MoE", "NIRF Ranking: Ranked 51 in Management Category"]
+        },{
+            "id": 29,
+            "collegeName": "Indian Institute of Management Bangalore",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                
+                {
+                    "category": "certificate",
+                    "variant": [
+                        {
+                            "name": "Independent Directors Certificate Programme Live Online",
+                            "fee": 380000,
+                            "duration": 1
+                        },
+                        {
+                            "name": "Digital Operations and Supply Chain Management",
+                            "fee": 351000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "General Management Programme",
+                    "variant": [
+                        {
+                            "name": "Entertainment & Media Business",
+                            "fee": 350000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "General Management Programme",
+                    "variant": [
+                        {
+                            "name": "Entertainment & Media Business",
+                            "fee": 350000,
+                            "duration": 1
+                        },
+                        {
+                            "name": "Aerospace and Aviation Executive",
+                            "fee": 620000,
+                            "duration": 1
+                        }
+                        ,{
+                            "name": "Healthcare Executives",
+                            "fee": 590000,
+                            "duration": 1
+                        }, 
+                        {
+                            "name": "IIMBx - India",
+                            "fee": 675000,
+                            "duration": 0.5
+                        }
+                    ]
+                },        
+                {
+                    "category": "Business Management Programme",
+                    "variant": [
+                        {
+                            "name": "DGR",
+                            "fee": 0,
+                            "duration": 0.5
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.iimb.ac.in/",
+            "shortDescription": "The programmes offered at IIM Bangalore are aligned with global education. To ensure the internationalisation of its academics, the institution has collaborated with 90 international partner universities. Over the years, it has aced most of the national and international rankings, adding more weightage to its degree in the corporate sector.",
+            "longDescription": "Established in the year 1973, the Indian Institute of Management Bangalore is among the leading graduate schools of management in Asia. With 10 disciplinary areas, the institute has 10 centres of excellence which offers multiple courses and conducts various research activities.",
+            "accreditation": [
+                "Institute of National Importance",
+                "EQUIS",
+                "#2 in India by Ministry of Education, GoI 2023",
+                "NIRF: Ranked 2 under Management Category",
+                "Ranked 1 in India by QS University Rankings by Subject (Business & Management Studies)"
+            ]
+        },
+        {
+            "id": 30,
+            "collegeName": "Indian Institute of Management Indore",
+            "city": "Indore",
+            "state": "Madhya Pradesh",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "Executive Post Graduate Diploma Programme",
+                    "variant": [
+                        {
+                            "name": "Management & Artificial Intelligence",
+                            "fee": 760000,
+                            "duration": 1.25
+                        }
+                    ]
+                },
+                {
+                    "category": "MSc",
+                    "variant": [
+                        {
+                            "name": "Data Science and Management (Blended)",
+                            "fee": 1200000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "General Management Programme",
+                    "variant": [
+                        {
+                            "name": "Executive",
+                            "fee": 590000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Advanced Management Programme",
+                    "variant": [
+                        {
+                            "name": "Corporate Strategy & Business Leadership",
+                            "fee": 215940,
+                            "duration": 0.66
+                        },
+                        {
+                            "name": "Corporate Leaders",
+                            "fee": 380000,
+                            "duration": 1
+                        }
+                    ]
+                },
+        
+                {
+                    "category": "Certificate",
+                    "variant": [
+                        {
+                            "name": "PG Certificate Programme Finance",
+                            "fee": 320000,
+                            "duration": 1
+                        },
+                        {
+                            "name": "Management",
+                            "fee": 416540,
+                            "duration": 1
+                        },
+                        {
+                            "name": "Family Business Management & Entrepreneurship",
+                            "fee": 531000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Advanced Human Resource Management Programme",
+                    "variant": [
+                        {
+                            "name": "HR Leaders",
+                            "fee": 327450,
+                            "duration": 1
+                        }
+                    ]
+                }
+        
+                
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.iimidr.ac.in/",
+            "shortDescription": "Over the past years, IIM Indore has excelled in providing management education, research, and training with an impeccable placement record. It is the result of the institute's latest teaching aids, updated learning resources and a robust industry interface.",
+            "longDescription": "IIM Indore provides various postgraduate and fellow programmes in management, which are recognised by the Association of Indian Universities and accredited by the Association of MBAs, London (AMBA). Apart from this, the institution offers executive programmes in a blended format and in collaboration with various technology partners as well. The institute provides excellent academic facilities for both on-campus and online learning courses. The industry-specific modules of its courses are highly job-oriented, benefitting working professionals.",
+            "accreditation": [
+                "AIU",
+                "EQUIS",
+                "AACSB",
+                "AMBA",
+                "Institute of National Importance"
+            ]
+        },
+        {
+            "id": 31,
+            "collegeName": "Indian Institute of Management Rohtak",
+            "city": "Rohtak",
+            "state": "Haryana",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "Executive Certificate Programme",
+                    "variant": [
+                        {
+                            "name": "Project Management",
+                            "fee": 66000,
+                            "duration": 0.42
+                        },
+                        {
+                            "name": "Advanced HR Analytics",
+                            "fee": 70000,
+                            "duration": 0.42
+                        },
+                        {
+                            "name": "Data Analytics",
+                            "fee": 66000,
+                            "duration": 0.42
+                        },
+                        {
+                            "name": "Advanced Supply Chain Management",
+                            "fee": 70000,
+                            "duration": 0.42
+                        },
+                        {
+                            "name": "Lean Operations Management & Six Sigma",
+                            "fee": 66000,
+                            "duration": 0.25
+                        },
+                        {
+                            "name": "Product and Brand Management",
+                            "fee": 66000,
+                            "duration": 0.25
+                        },
+                        {
+                            "name": "Strategic Digital Marketing and Analytics",
+                            "fee": 66000,
+                            "duration": 0.25
+                        },
+                        {
+                            "name": "Advanced Project Management",
+                            "fee": 66000,
+                            "duration": 0.25
+                        },
+                        {
+                            "name": "Strategic Human Resources Applied Analytics",
+                            "fee": 66000,
+                            "duration": 0.25
+                        },
+                        {
+                            "name": "Business Analytics and Intelligence",
+                            "fee": 66000,
+                            "duration": 0.25
+                        },
+                        {
+                            "name": "Supply Chain & Logistic Management Applied Digital Transformation and Analytics",
+                            "fee": 66000,
+                            "duration": 0.25
+                        },
+                        {
+                            "name": "Advance Strategic Management Applied Digital Transformation & Analytics",
+                            "fee": 66000,
+                            "duration": 0.25
+                        }
+                    ]
+                },
+                {
+                    "category": "PG Programme",
+                    "variant": [
+                        {
+                            "name": "Management for Executive",
+                            "fee": 695000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Executive PG Diploma",
+                    "variant": [
+                        {
+                            "name": "Sports Management",
+                            "fee": 786000,
+                            "duration": 2
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.iimrohtak.ac.in/",
+            "shortDescription": "Academic qualification from an institute of national importance accelerates professional growth. Countless facilities available at IIM Rohtak will give the applicant an edge over others.",
+            "longDescription": "IIM Rohtak provides various short and long-duration virtual programmes in addition to its full-time and regular programmes. The institute has collaborations with several international institutions and strategic partnerships with industry leaders, ensuring the global acceptance of its degrees. It is known for its strong industry connections, acclaimed faculty members, and impressive alumni network. The institution ranks highly in educational and NIRF rankings.",
+            "accreditation": [
+                "AMBA",
+                "12TH rank in NIRF 2023",
+                "Institute of National Importance"
+            ]
+        },
+        {
+            "id": 32,
+            "collegeName": "Indian Institute of Management Kashipur",
+            "city": "Kashipur",
+            "state": "Uttarakhand",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "certificate",
+                    "variant": [
+                        {
+                            "name": "Post Graduate Certificate Programme Specialisation Dependent",
+                            "fee": 160000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Executive Programme",
+                    "variant": [
+                        {
+                            "name": "Specialisation Dependent",
+                            "fee": 190000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Executive Development Programme",
+                    "variant": [
+                        {
+                            "name": "Specialisation Dependent",
+                            "fee": 70000,
+                            "duration": 0.33
+                        }
+                    ]
+                },
+                {
+                    "category": "Senior Management Programme",
+                    "variant": [
+                        {
+                            "name": "General",
+                            "fee": 295000,
+                            "duration": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Executive Certificate Programmes",
+                    "variant": [
+                        {
+                            "name": "Specialisation Dependent",
+                            "fee": 75000,
+                            "duration": 0.42
+                        }
+                    ]
+                },
+                {
+                    "category": "Executive MBA",
+                    "variant": [
+                        {
+                            "name": "Specialisation Dependent",
+                            "fee": 540000,
+                            "duration": 2
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.iimkashipur.ac.in/",
+            "shortDescription": "Ever since its establishment, the institute has contributed significantly to the advancement of quality higher education in India. By using an advanced technology approach, IIM Kashipur has enhanced the virtual learning experience for potential candidates. Its globally accredited degrees are in great demand in the corporate sector.",
+            "longDescription": "IIM Kashipur provides a variety of executive education and certificate programs that are technologically enriched and flexible. The institution focuses on experiential and research-intensive curriculum, encouraging learners to explore wider areas of their fields. It has strong industry connections and strategic partnerships with industry leaders, contributing to the global acceptance of its degrees.",
+            "accreditation": [
+                "AACSB",
+                "EQUIS",
+                "19th rank in NIRF 2023"
+            ]
+        },{
+            "id": 33,
+            "collegeName": "Indian Institute of Management Tiruchirappalli",
+            "city": "Tiruchirappalli",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "certificate",
+                    "variant": [
+                        {
+                            "name": "General Post Graduate Certificate in Strategic Management",
+                            "fee": 225000,
+                            "duration": 0.83
+                        },{
+                            "name": "Post Graduate Certificate Programme in Digital Transformation",
+                            "fee": 222300,
+                            "duration": 1
+                        },
+                        {
+                            "name": "Post Graduate Certificate Programme in Supply Chain Management",
+                            "fee": 242700,
+                            "duration": 1
+                        }
+                    ]
+                }
+        
+        
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.iimtrichy.ac.in/",
+            "shortDescription": "The course curriculum includes case studies, problem-solving exercises, lectures from eminent professionals and videos. The prestigious national and international accreditations the institute holds bring lucrative opportunities to its learners.",
+            "longDescription": "IIM Tiruchirappalli offers a range of management programs, including online programs delivered through various platforms. It emphasizes case study-based learning, networking with industry experts, and a highly interactive teaching methodology. The institute holds prestigious national and international accreditations, providing lucrative opportunities to its learners.",
+            "accreditation": [
+                "AMBA",
+                "AACSB",
+                "MHRD (now MoE)",
+                "22nd rank in NIRF 2023"
+            ]
+        },{
+            "id": 34,
+            "collegeName": "University of Petroleum and Energy Studies Centre for Continued Education",
+            "city": "Tiruchirappalli",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+              {
+                "category": "MBA",
+                "variant": [
+                  {
+                    "name": "Master of Business Administration (MBA)",
+                    "fee": 150000,
+                    "duration": 2
+                  }
+          
+                ]
+              },
+              {
+                "category": "BBA",
+                "variant": [
+                  {
+                    "name": "Bachelor of Business Administration (BBA)",
+                    "fee": 200000,
+                    "duration": 3
+                  }
+          
+                ]
+              },
+              {
+                "category": "BCA",
+                "variant": [
+                  {
+                    "name": "Bachelor of Computer Applications (BCA)",
+                    "fee": 200000,
+                    "duration": 3
+                  }
+          
+                ]
+              },
+              {
+                "category": "PGP",
+                "variant": [
+                  {
+                    "name": "Post Graduate Program (PGP)",
+                    "fee": 200000,
+                    "duration": 0.833
+                  }
+          
+                ]
+              },{
+                "category": "certificate",
+                "variant": [
+                  {
+                    "name": "Certificate in Project Management",
+                    "fee": 25000,
+                    "duration": 0.25
+                  }
+          
+                ]
+              }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "",
+            "shortDescription": "The Centre for Continued Education promotes personal as well as professional development among individuals by inculcating in them the habit of innovative and imaginative thinking.",
+        
+            "longDescription": "The University of Petroleum and Energy Studies was established in 2003 with the aim to develop professionally competent individuals who can contribute towards nation building. Over the years, the university has established itself as a premier higher education institution, receiving the prestigious A grade from NAAC and having an outstanding NIRF Ranking of 52.",
+            "accreditation": [
+                "NIRF- 52",
+                "NAAC A",
+                "UGC",
+                "UGC-DEB"
+                
+            ]
+          },{
+            "id": 35,
+            "collegeName": "Institute of Management Technology",
+            "city": "Ghaziabad",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+              {
+                "category": "innovativeCourses",
+                "variant": [
+                  {
+                    "name": "PGDM",
+                    "fee": 125000,
+                    "duration": 2
+                  },
+                  {
+                    "name": "PGDM (Executive)",
+                    "fee": 80000,
+                    "duration": 1.25
+                  },
+                  {
+                    "name": "PGCM",
+                    "fee": 56000,
+                    "duration": 1.083
+                  }
+                ]
+              }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "",
+            "shortDescription": "IMT Ghaziabad is a premier institute in India which was established in 1980 to groom young professionals into next-generation leaders. With its innovative curriculum and state-of-the-art infrastructure, it caters to thousands of students' needs.",
+            "longDescription": "IMT Ghaziabad has established its distance learning branch as a Centre for Distance Learning with a vision to provide professional education. The university's flexible learning schedule and innovative approach have made it a significant player in education. Moreover, it has curated a world-class curriculum that offers them industry insights and access to the digital library. Additionally, students can track their accomplishments & academic progress via its LMs portal, EduGenie. With a goal to become the best in the market and have an innovative learning pedagogy, the university has delivered top professionals that have impacted society.",
+            "accreditation": [
+              "NBA",
+              "AICTE",
+              "AIU"
+            ]
+          }           
+    ] 
   }
