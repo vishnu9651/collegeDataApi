@@ -88,6 +88,7 @@
             "shortDescription": "The Amity Education Group is a not-for-profit organisation that was started in 1986 by the Chauhan Family. Today, the University has a presence in more than 11 countries with over 1,75,000 students.",
             "longDescription": "The Amity Education Group is a not-for-profit organisation that was started in 1986 by the Chauhan Family. Today, the University has a presence in more than 11 countries with over 1,75,000 students. In order to cater to the educational needs of a larger segment of individuals, Amity took an initiative to offer education through the online mode. Thus, Amity University became the first university in India to gain approval from the UGC to offer online degrees in 2009. In order to ensure that students make the most out of their online learning experience, the university has set-up a one-of-its-kind platform, AMIGO, that takes care of all the study related needs of students. With its innovative thinking and futuristic approach, Amity University is closing the gaps in education by making quality higher education accessible to all",
             "accreditation": [
+                "UGC",
                 "NAAC",
                 "WASC",
                 "IET",
@@ -613,7 +614,7 @@
             "id": 6,
             "collegeName": "School of Distance Education and Learning (SODEL), Jaipur National University",
             "city": "Jaipur",
-            "state": "Rajhasthan",
+            "state": "Rajasthan",
             "country": "India",
             "headerImgUrl": "",
             "collegeLogoUrl": "",
@@ -1524,7 +1525,285 @@
                 "MHRD",
                 "ARIIA"
             ]
-        },{
+        },
+    
+        {
+            "id": 12,
+            "collegeName": "GITAM",
+            "city": "Vishakapatnam",
+            "state": "Andhra Pradesh",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "BA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Arts",
+                            "fee": 12250,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Commerce",
+                            "fee": 12250,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MBA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 61000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Computer Applications",
+                            "fee": 64000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Arts",
+                            "fee": 13000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom",
+                    "variant": [
+                        {
+                            "name": "Master of Commerce",
+                            "fee": 13000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MSc - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Science - Biotechnology",
+                            "fee": 43000,
+                            "duration": 2 
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://www.gitam.edu/",
+            "shortDescription": "The Gandhi Institute of Technology and Management, widely known as GITAM, has a futuristic and comprehensive curriculum which is at par with global standards. The institution has achieved excellence in teaching and research by providing a conducive learning environment.",
+            "longDescription": "The Gandhi Institute of Technology and Management, widely known as GITAM, has a futuristic and comprehensive curriculum which is at par with global standards. The institution has achieved excellence in teaching and research by providing a conducive learning environment. Guided mainly by Gandhian principles, GITAM is committed to enhancing access to higher education while making it cost-effective. The Centre For Distance Education degrees at GITAM are recognised by the Distance Education Council (DEC), which also makes students eligible for government jobs. The programmes are combined with career guidance, self-learning study materials and interactive sessions with the faculties and industry professionals. The e-resources provided by the university are an added advantage for its distance-learning students.",
+            "accreditation": [
+                "NAAC",
+                "DEB (Distance Education Bureau)",
+                "UGC-DEC",
+                "AICTE"
+            ]
+        },
+    
+        {
+            "id": 14,
+            "collegeName": "Osmania University",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "MA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Arts",
+                            "fee": 12000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Commerce",
+                            "fee": 13000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MBA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 40000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MCA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Computer Applications",
+                            "fee": 30000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "MSc - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Science",
+                            "fee": 24000,
+                            "duration": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "BA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Arts",
+                            "fee": 12000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Commerce",
+                            "fee": 15000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BBA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 24000,
+                            "duration": 3
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "http://www.oucde.net/",
+            "shortDescription": "Osmania University, the 1st in the erstwhile princely state of Hyderabad and 7th oldest in India, has grown and sustained its mark for quality education for ten decades. Alumni of this university are sitting in reputable positions nationally and internationally.",
+            "longDescription": "Osmania University, the 1st in the erstwhile princely state of Hyderabad and 7th oldest in India, has grown and sustained its mark for quality education for ten decades. Alumni of this university are sitting in reputable positions nationally and internationally. Realising the need for the provision of distance education, the university initiated the Centre for Distance Education in 1977. Ever since its inception, the Centre has shown remarkable growth and upgraded the quality of education to a large scale. With no age bar for applicants and an affordable fee structure, the university intends to make higher education accessible to all, including working professionals who wish to upskill.",
+            "accreditation": [
+                "UGC",
+                "NAAC A+",
+                "NIRF - 64"
+            ]
+        },
+    
+        {
+            "id": 15,
+            "collegeName": "Suresh Gyan Vihar University",
+            "city": "Jaipur",
+            "state": "Rajasthan",
+            "country": "India",
+            "headerImgUrl": "",
+            "collegeLogoUrl": "",
+            "courses": [
+                {
+                    "category": "MA - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Arts",
+                            "fee": 14000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Arts",
+                            "fee": 14000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Commerce",
+                            "fee": 16000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "BBA - ODL",
+                    "variant": [
+                        {
+                            "name": "Bachelor of Business Administration",
+                            "fee": 23000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MCom - ODL",
+                    "variant": [
+                        {
+                            "name": "Master of Commerce",
+                            "fee": 16000,
+                            "duration": 3
+                        }
+                    ]
+                },
+                {
+                    "category": "MBA",
+                    "variant": [
+                        {
+                            "name": "Master of Business Administration",
+                            "fee": 49250,
+                            "duration": 2
+                        }
+                    ]
+                }
+            ],
+            "rating": "",
+            "reviews": "",
+            "website": "https://sgvu.distanceeducationschool.com/",
+            "shortDescription": "Since its inception, SGVU has been continuously raising the bar of quality education and became the first private university in Rajasthan to be accredited with NAAC A grade. Holding AICTE status for its nationally accredited in-class programmes, the university has also been delivering live and interactive distance learning programmes.",
+            "longDescription": "Since its inception, SGVU has been continuously raising the bar of quality education and became the first private university in Rajasthan to be accredited with NAAC A grade. Holding AICTE status for its nationally accredited in-class programmes, the university has also been delivering live and interactive distance learning programmes. The Directorate of Distance Education at Suresh Gyan Vihar University offers a broad range of self-paced courses for undergraduate and postgraduate candidates. Its distance learning programmes are empowered by ‘Edusphere’ to provide robust student support and real-time learning experience. The industry-oriented curriculum of the distance education programmes helps working professionals and candidates looking to upskill from home while fulfilling their other commitments.",
+            "accreditation": [
+                "AIU Member",
+                "NAAC A",
+                "AICTE"
+            ]
+        }
+    ,{
             "id": 19,
             "collegeName": "Bharathiar University",
             "city": "Coimbatore",
